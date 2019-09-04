@@ -1,12 +1,26 @@
 # BatchManager
 python batch process manager
 
-python framework to standard and automate batch jobs and processes:
+python framework for batch job / process automation, schedulling and monitorization
 
-> option's management
 
-> help system
+command line options management tool
+	help and manual system
+	test and benchmarking
+		automated unit / integration tests
+		automated benchmark tests
 
-> automated test system
+job / process monitorization and event correlation
+	logging
+	alarm tools
 
-> log system
+
+#####################################################################
+modules:
+	options.py:	cli options / flag manager
+		TODO:
+			put test and manual options in own modulues
+
+
+
+
